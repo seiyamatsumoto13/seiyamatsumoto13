@@ -1,13 +1,13 @@
 # Seiya Matsumoto
 
-MS in Computational Analysis and Public Policy student at the University of Chicago
+MS in Computational Analysis and Public Policy(MSCAPP) student at the University of Chicago
 interested in urban systems, transportation, and public data.
 
 This page highlights selected projects and coursework.
 
 ---
 
-## Skills
+## Technical Skills
 
 - Python, R
 - Data analysis (Pandas)
