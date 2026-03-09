@@ -58,6 +58,9 @@ Bus travel data focusing on Routes 2 and 6 connecting Hyde Park and Downtown.
 
 ### Key Insights
 
+Bus is more reliable than we expected and of course it is way cheaper,
+thus we can recommed to use it instead of calling rideshare service immediately.
+
 **Average Travel Time**
 
 Bus: ~23.9 minutes  
