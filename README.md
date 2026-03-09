@@ -1,12 +1,26 @@
 # Seiya Matsumoto
 
-Portfolio of data and computational projects developed at the University of Chicago and beyond.
+MS in Computational Analysis and Public Policy student at the University of Chicago
+interested in urban systems, transportation, and public data.
+
+This page highlights selected projects and coursework.
+
+---
+
+## Skills
+
+- Python, R
+- Data analysis (Pandas)
+- API data collection
+- Data cleaning and transformation
+- Data visualization
+- Public datasets and policy analysis
 
 ---
 
 ## Featured Project
 
-### Transportation Tradeoffs: Bus vs Rideshare between Hyde Park and Downtown Chicago
+### Transportation Tradeoffs: Bus vs Rideshare between Hyde Park and Downtown in Chicago
 
 **Course:** CAPP 30122  
 **Authors:** Seiya Matsumoto, Luis Emilio Santos Burgoa Suchomlinow, Brenda Jocelyn Sanchez Mendoza  
@@ -82,3 +96,10 @@ Rideshare tends to be slightly faster but significantly more expensive.
 - API data collection
 - Exploratory data analysis
 - Data visualization
+
+---
+
+## Other Work
+
+- Personal portfolio: https://seiya-matsumoto.myportfolio.com
+- Full portfolio site: https://www.seiyam.com
