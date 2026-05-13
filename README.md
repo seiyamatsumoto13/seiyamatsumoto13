@@ -20,7 +20,7 @@ This page highlights selected projects and coursework.
 
 ## Featured Project
 
-### Bus vs Rideshare in Chicago City
+### Bus vs Rideshare Reliability in Chicago City
 A data analysis project comparing CTA bus routes and rideshare services between Hyde Park and Downtown Chicago using public transportation datasets.
 
 **Course:** CAPP 30122  
