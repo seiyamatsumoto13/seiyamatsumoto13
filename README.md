@@ -37,6 +37,7 @@ statistical modeling, machine learning
 A machine learning project using climatic, economic, political, and conflict
 data to predict future social unrest across African countries.
 
+
 **Research Question**
 
 Can historical conflict patterns and broader socioeconomic, political, and
@@ -87,6 +88,7 @@ https://github.com/uchicago-capp30254-spr-26/project-ars_mlproject
 
 Analyzed travel time, cost, and reliability differences between CTA buses and
 rideshare services for travel between Hyde Park and Downtown Chicago.
+
 
 - Processed millions of rideshare records using Python and Pandas
 - Integrated rideshare and CTA datasets
