@@ -1,7 +1,15 @@
 # Seiya Matsumoto
 
-MS in Computational Analysis and Public Policy (MSCAPP) student at the University of Chicago.  
-Interested in economic policy, urban systems, and public data.
+MS in Computational Analysis and Public Policy (MSCAPP) student at the University of Chicago.
+
+I work at the intersection of **machine learning, data science, and public policy**, using computational methods to analyze complex social and policy problems.
+
+Currently interested in:
+- Machine learning and predictive modeling
+- Public and government data
+- AI applications for policy research
+- Economic and social policy
+- Urban systems and transportation
 
 This page highlights selected projects and coursework.
 
@@ -9,96 +17,112 @@ This page highlights selected projects and coursework.
 
 ## Technical Skills
 
-- Python, R
-- Data analysis (Pandas)
-- API data collection
-- Data cleaning and transformation
-- Data visualization
-- Public datasets and policy-focused analysis
+**Programming:** Python, R, SQL
+**Data & ML:** Pandas, NumPy, Polars, scikit-learn
+**Methods:** Data processing, feature engineering, exploratory data analysis,
+statistical modeling, machine learning
+**Tools:** Jupyter Notebook, Git, Plotly Dash
 
 ---
 
 ## Featured Project
 
-### Bus vs Rideshare Reliability in Chicago City
-A data analysis project comparing CTA bus routes and rideshare services between Hyde Park and Downtown Chicago using public transportation datasets.
+### Social Unrest in Africa
 
-**Course:** CAPP 30122  
-**Authors:** Seiya Matsumoto, Luis Emilio Santos Burgoa Suchomlinow, Brenda Jocelyn Sanchez Mendoza  
+**Machine Learning | University of Chicago | 2026**
 
-GitHub Repository:  
+A machine learning project using climatic, economic, political, and conflict
+data to predict future social unrest across African countries.
+
+**Research Question**
+
+Can historical conflict patterns and broader socioeconomic, political, and
+climatic indicators help predict future social unrest?
+
+### Approach
+
+- Integrated multi-source public datasets into a regional-month panel
+- Combined climate, economic, political, demographic, and conflict indicators
+- Engineered lagged and rolling features to preserve temporal ordering and
+  reduce data leakage
+- Used chronological train, validation, and test splits
+- Developed and compared logistic regression, KNN, Random Forest, and neural
+  network classifiers
+- Evaluated models using AUC, precision, recall, and other classification metrics
+- Analyzed feature importance to understand the drivers of model predictions
+
+### Results
+
+The tuned Random Forest achieved:
+
+**Validation AUC: 0.934**  
+**Test AUC: 0.957**
+
+Conflict history was the strongest predictor in the Random Forest, accounting
+for more than **62% of total feature importance**.
+
+The results highlight the importance of temporal conflict patterns for
+early-warning modeling while also demonstrating how climate, economic, and
+political indicators can be integrated into a broader predictive framework.
+
+### Policy Application
+
+The project explores how machine learning can support **early-warning systems
+and evidence-based policy decisions** by identifying patterns associated with
+future social unrest.
+
+**Repository:**  
+[Predicting Social Unrest in Africa](YOUR-REPOSITORY-LINK)
+
+---
+
+## Other Projects
+
+### Bus vs Rideshare Reliability in Chicago
+
+**Data Analysis & Visualization | University of Chicago | 2026**
+
+Analyzed travel time, cost, and reliability differences between CTA buses and
+rideshare services for travel between Hyde Park and Downtown Chicago.
+
+- Processed millions of rideshare records using Python and Pandas
+- Integrated rideshare and CTA datasets
+- Conducted exploratory data analysis and distributional comparisons
+- Built an interactive Plotly Dash dashboard
+- Used Git for collaborative and reproducible workflows
+
+**Repository:**  
 https://github.com/uchicago-2026-capp30122/project-ljs
 
 ---
 
-### Overview
+## Experience
 
-This project analyzes transportation options between Hyde Park and Downtown Chicago for the University of Chicago community. We compare CTA bus routes **2 and 6** with **rideshare services** to understand differences in travel time, cost, and reliability.
+### Cambridge Global Advisors — AI Fellow
 
-Using public transportation data, rideshare trip datasets, and weather alerts, the project explores how these factors influence commuting decisions.
+Analyzed government and open-source data across federal policy,
+cybersecurity, and national security priorities.
 
----
+Researched and evaluated data sources for an internal AI agent, developing a
+framework to assess source relevance, predictive value, and strategic
+importance.
 
-### Research Question
+### Tapestry 360 Health — Data Analytics Intern
 
-What's the best way for the UChicago community to get Downtown?
-- CTA Bus Route 2
-- CTA Bus Route 6
-- Rideshare services
-for trips between Hyde Park and Downtown Chicago?
+Worked with healthcare data and supported dashboard and visualization
+development for key performance indicators.
 
----
-
-### Data Sources
-
-**Chicago Transportation Network Providers (TNP)**  
-Public datasets containing anonymized Uber and Lyft trip records.
-
-**CTA Bus Data**  
-Bus travel data for CTA Routes 2 and 6 connecting Hyde Park and Downtown Chicago.
+Researched data governance practices across Federally Qualified Health Centers
+(FQHCs).
 
 ---
 
-### Methods
+## Education
 
-- Data collection from public datasets and APIs  
-- Cleaning and filtering trips relevant to Hyde Park–Downtown travel  
-- Aggregating travel time and cost metrics  
-- Analyzing travel time variability and disruptions  
-- Building a dashboard to visualize travel patterns
+**The University of Chicago**  
+M.S. in Computational Analysis and Public Policy  
+Expected June 2027
 
----
-
-### Key Insights
-
-Bus service is more reliable than we initially expected and significantly cheaper.  
-Therefore, we recommend considering the bus before calling a rideshare service.
-
-**Average Travel Time**
-Bus: 23.9 minutes  
-Rideshare: 20.1 minutes
-
-**Average Cost**
-Bus: $2.25  
-Rideshare: $24.20
-
-Rideshare tends to be slightly faster but significantly more expensive.
-Since travel time differences were smaller than expected, we further analyzed the reliability of bus and rideshare services.
-
----
-
-### Final Thoughts
-
-The goal of this project was to provide clear and practical insights into transportation choices for the University of Chicago community traveling from Hyde Park to Downtown Chicago. 
-- We can recommend “bus” as it’s more reliable than we expected
-- The optimal choice may also depend on factors such as group size, luggage, urgency, and time of day.
-
----
-
-### Skills Demonstrated
-
-- Data cleaning and transformation
-- Working with large public datasets
-- API data collection
-- Exploratory data analysis
-- Data visualization
+**Royal College of Art**  
+M.A. in Information Experience Design  
+2023
