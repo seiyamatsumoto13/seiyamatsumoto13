@@ -18,9 +18,12 @@ This page highlights selected projects and coursework.
 ## Technical Skills
 
 **Programming:** Python, R, SQL
+
 **Data & ML:** Pandas, NumPy, Polars, scikit-learn
+
 **Methods:** Data processing, feature engineering, exploratory data analysis,
 statistical modeling, machine learning
+
 **Tools:** Jupyter Notebook, Git, Plotly Dash
 
 ---
@@ -72,7 +75,7 @@ and evidence-based policy decisions** by identifying patterns associated with
 future social unrest.
 
 **Repository:**  
-[Predicting Social Unrest in Africa](YOUR-REPOSITORY-LINK)
+https://github.com/uchicago-capp30254-spr-26/project-ars_mlproject
 
 ---
 
@@ -125,4 +128,4 @@ Expected June 2027
 
 **Royal College of Art**  
 M.A. in Information Experience Design  
-2023
+June 2023
