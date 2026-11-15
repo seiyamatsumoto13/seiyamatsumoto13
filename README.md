@@ -37,7 +37,7 @@ Collaborating with Climate Cabinet in a four-member team to investigate relation
 
 *Ongoing collaborative project.*
 
-### 2. U.S. Wealth Distribution — Data Visualization
+### 2. The Era of Capital Kingdoms — Economic Data Visualization
 
 **Data Visualization | University of Chicago | 2026**
 
@@ -89,6 +89,10 @@ Evaluated 150+ government and open-source data sources for an internal AI agent,
 **Tapestry 360 Health — Data Analytics Intern**
 
 Analyzed approximately 300,000 healthcare records using SQL and supported KPI reporting and Power BI visualization.
+
+**BBDO Japan & Leo Burnett Tokyo — Creative Director / Experience Designer**
+
+Led multidisciplinary teams and developed digital campaigns for global clients, combining audience insights, creative strategy, and emerging technologies. Bring extensive experience in visual communication, stakeholder engagement, and project leadership to data science.
 
 ---
 
