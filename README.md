@@ -1,133 +1,99 @@
 # Seiya Matsumoto
 
-MS in Computational Analysis and Public Policy (MSCAPP) student at the University of Chicago.
+M.S. student in Computational Analysis and Public Policy (MSCAPP) at the University of Chicago, graduating June 2027.
 
-I work at the intersection of **machine learning, data science, and public policy**, using computational methods to analyze complex social and policy problems.
+I use **Python, SQL, machine learning, and data visualization** to transform complex datasets into actionable insights, with a focus on public policy and social challenges.
 
-Currently interested in:
-- Machine learning and predictive modeling
-- Public and government data
-- AI applications for policy research
-- Economic and social policy
-- Urban systems and transportation
-
-This page highlights selected projects and coursework.
+My interests include data engineering, predictive modeling, applied AI, and evidence-based decision-making.
 
 ---
 
 ## Technical Skills
 
-**Programming:** Python, R, SQL
+**Programming:** Python, SQL, R
 
-**Data & ML:** Pandas, NumPy, Polars, scikit-learn
+**Data Science & ML:** Pandas, NumPy, Polars, scikit-learn, statistical modeling, feature engineering, model evaluation
 
-**Methods:** Data processing, feature engineering, exploratory data analysis,
-statistical modeling, machine learning
+**Data & Visualization:** Data cleaning and integration, exploratory analysis, Plotly Dash, Power BI
 
-**Tools:** Jupyter Notebook, Git, Plotly Dash
+**Development:** Git, GitHub, Jupyter Notebook
 
 ---
 
-## Featured Project
+## Selected Projects
 
-### Social Unrest in Africa
+### 1. Climate Cabinet — Clean-Energy Legislative Analysis
+
+**Data Science Clinic | University of Chicago | 2026–Present**
+
+Collaborating with Climate Cabinet in a four-member team to investigate relationships between political contributions, legislative voting, and clean-energy policy in Minnesota.
+
+- Developing LLM-based approaches to classify legislative bills by their relationship to clean-energy policy.
+- Testing and comparing classification approaches using bill descriptions and official legislative sources.
+- Analyzing a dataset containing more than **464,000 legislative voting records**.
+- Supporting reproducible analysis and visualization of legislative and political data.
+
+**Focus:** LLM evaluation, public data integration, classification, policy analysis
+
+*Ongoing collaborative project.*
+
+### 2. U.S. Wealth Distribution — Data Visualization
+
+**Data Visualization | University of Chicago | 2026**
+
+Exploring how visual representations can communicate economic inequality and make complex distributions easier to understand.
+
+- Working with U.S. wealth-distribution data to communicate differences across population groups.
+- Developing visual explanations that emphasize clarity, comparison, and accessibility.
+- Exploring an interactive concept, *If the U.S. Had 100 Coins*, to represent wealth distribution through 100 visual units.
+
+**Focus:** Data visualization, economic inequality, interactive storytelling
+
+**Repository:** [The Era of Economic Kindoms](https://github.com/seiyamatsumoto13/data_viz_static)
+
+![final poster](https://github.com/seiyamatsumoto13/data_viz_static/blob/main/static-viz/final.png)
+
+*Interactive project in development.*
+
+### 3. Social Unrest Prediction in Africa
 
 **Machine Learning | University of Chicago | 2026**
 
-A machine learning project using climatic, economic, political, and conflict
-data to predict future social unrest across African countries.
+Developed a machine learning pipeline combining climate, economic, political, and conflict indicators to predict future social unrest.
 
+- Integrated multiple public datasets into a regional-month panel.
+- Engineered temporal features and used chronological data splits to reduce leakage.
+- Compared logistic regression, KNN, Random Forest, and neural network models.
+- Achieved **0.934 validation AUC** and **0.957 test AUC** with a tuned Random Forest.
 
-**Research Question**
+**Repository:** [Social Unrest Prediction](https://github.com/uchicago-capp30254-spr-26/project-ars_mlproject)
 
-Can historical conflict patterns and broader socioeconomic, political, and
-climatic indicators help predict future social unrest?
-
-### Approach
-
-- Integrated multi-source public datasets into a regional-month panel
-- Combined climate, economic, political, demographic, and conflict indicators
-- Engineered lagged and rolling features to preserve temporal ordering and
-  reduce data leakage
-- Used chronological train, validation, and test splits
-- Developed and compared logistic regression, KNN, Random Forest, and neural
-  network classifiers
-- Evaluated models using AUC, precision, recall, and other classification metrics
-- Analyzed feature importance to understand the drivers of model predictions
-
-### Results
-
-The tuned Random Forest achieved:
-
-**Validation AUC: 0.934**  
-**Test AUC: 0.957**
-
-Conflict history was the strongest predictor in the Random Forest, accounting
-for more than **62% of total feature importance**.
-
-The results highlight the importance of temporal conflict patterns for
-early-warning modeling while also demonstrating how climate, economic, and
-political indicators can be integrated into a broader predictive framework.
-
-### Policy Application
-
-The project explores how machine learning can support **early-warning systems
-and evidence-based policy decisions** by identifying patterns associated with
-future social unrest.
-
-**Repository:**  
-https://github.com/uchicago-capp30254-spr-26/project-ars_mlproject
-
----
-
-## Other Projects
-
-### Bus vs Rideshare Reliability in Chicago
+### 4. Bus vs Rideshare Reliability in Chicago
 
 **Data Analysis & Visualization | University of Chicago | 2026**
 
-Analyzed travel time, cost, and reliability differences between CTA buses and
-rideshare services for travel between Hyde Park and Downtown Chicago.
+- Processed millions of rideshare records and integrated CTA transportation data.
+- Analyzed travel time, cost, and reliability.
+- Developed an interactive Plotly Dash dashboard.
 
-
-- Processed millions of rideshare records using Python and Pandas
-- Integrated rideshare and CTA datasets
-- Conducted exploratory data analysis and distributional comparisons
-- Built an interactive Plotly Dash dashboard
-- Used Git for collaborative and reproducible workflows
-
-**Repository:**  
-https://github.com/uchicago-2026-capp30122/project-ljs
+**Repository:** [Bus vs Rideshare](https://github.com/uchicago-2026-capp30122/project-ljs)
 
 ---
 
-## Experience
+## Professional Experience
 
-### Cambridge Global Advisors — AI Fellow
+**Cambridge Global Advisors — AI Fellow**
 
-Analyzed government and open-source data across federal policy,
-cybersecurity, and national security priorities.
+Evaluated 150+ government and open-source data sources for an internal AI agent, assessing data quality, relevance, machine readability, and analytical value.
 
-Researched and evaluated data sources for an internal AI agent, developing a
-framework to assess source relevance, predictive value, and strategic
-importance.
+**Tapestry 360 Health — Data Analytics Intern**
 
-### Tapestry 360 Health — Data Analytics Intern
-
-Worked with healthcare data and supported dashboard and visualization
-development for key performance indicators.
-
-Researched data governance practices across Federally Qualified Health Centers
-(FQHCs).
+Analyzed approximately 300,000 healthcare records using SQL and supported KPI reporting and Power BI visualization.
 
 ---
 
 ## Education
 
-**The University of Chicago**  
-M.S. in Computational Analysis and Public Policy  
-Expected June 2027
+**University of Chicago** — M.S. in Computational Analysis and Public Policy, expected June 2027
 
-**Royal College of Art**  
-M.A. in Information Experience Design  
-June 2023
+**Royal College of Art** — M.A. in Information Experience Design, June 2023
