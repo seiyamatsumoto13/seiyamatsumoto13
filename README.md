@@ -49,7 +49,7 @@ Exploring how visual representations can communicate economic inequality and mak
 
 **Focus:** Data visualization, economic inequality, interactive storytelling
 
-**Repository:** [The Era of Economic Kindoms](https://github.com/seiyamatsumoto13/data_viz_static)
+**Repository:** [The Era of Capital Kindoms](https://github.com/seiyamatsumoto13/data_viz_static)
 
 ![final poster](https://github.com/seiyamatsumoto13/data_viz_static/blob/main/static-viz/final.png)
 
