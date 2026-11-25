@@ -31,7 +31,8 @@ Collaborating with Climate Cabinet in a four-member team to investigate relation
 - Developing LLM-based approaches to classify legislative bills by their relationship to clean-energy policy.
 - Testing and comparing classification approaches using bill descriptions and official legislative sources.
 - Analyzing a dataset containing more than **464,000 legislative voting records**.
-- Supporting reproducible analysis and visualization of legislative and political data.
+- implemented linear regression analysis to quantify associations between
+campaign contributions and legislative voting behavior, supporting policy analysis and data visualization.
 
 **Focus:** LLM evaluation, public data integration, classification, policy analysis
 
